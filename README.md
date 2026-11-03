@@ -1,0 +1,1 @@
+# RIFTBORN: ARENA\n\nPrototipe awal Godot 4: arena 3D, kamera isometrik, karakter placeholder OBY GM, dan gerakan sentuh dasar. Belum game MOBA lengkap; bot, minion, tower, skill, animasi, suara, dan menu akan dikembangkan bertahap.\n
